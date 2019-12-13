@@ -3,7 +3,8 @@
 
 # TEAM
 
-    <name> Abul Ahmed <twitter>
+    Abul Ahmed
+	aahmed@msn.com
 
 # THANKS
 
