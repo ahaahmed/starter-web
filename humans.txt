@@ -3,7 +3,9 @@
 
 # TEAM
 
-    <name> Abul Ahmed <twitter>
+    Abul Ahmed
+	aahmed@msn.com
+	DevOpps Trainee
 
 # THANKS
 
