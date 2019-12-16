@@ -11,3 +11,8 @@ Adding change to auto merge from master
 
 Adding GIT Rebase
 We have done and seen rebase
+Modifying in git hub
+
+
+Learning  Stashing
+Tag testing
